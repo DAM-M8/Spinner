@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Exemple Spinner</string>
+    <string name="titol_app">Selecciona el dia de la setmana que més t\'agradi</string>
+    <string name="textResultat">Resultat</string>
+    <string-array name="dies_setmana">
+        <item></item> <!--opcio per defecte -->
+        <item>Dilluns</item>
+        <item>Dimarts</item>
+        <item>Dimecres</item>
+        <item>Dijous</item>
+        <item>Divendres</item>
+        <item>Dissabte</item>
+        <item>Diumenge</item>
+    </string-array>
+    <string name="info_spinner">Selecciona una opció</string>
+</resources>
